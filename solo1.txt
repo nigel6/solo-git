@@ -1,3 +1,6 @@
 This is Solomon, a DevOps Engineer
 Solomon wants to know more about Git & GitHub
 He married man with 2 children
+They live in East London
+He would like to visit Nigeria
+And he will stay for about three months
