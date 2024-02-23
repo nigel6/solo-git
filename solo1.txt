@@ -1,1 +1,2 @@
 This is Solomon, a DevOps Engineer
+Solomon wants to know more about Git & GitHub
